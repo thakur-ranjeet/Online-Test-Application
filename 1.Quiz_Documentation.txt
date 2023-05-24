@@ -1,0 +1,39 @@
+1.Quiz_Json_Project
+* It is an Online Test Application system that enable users to give online tests, review their answers, and check their results shortly.
+* This system contains three main modules: Quiz, Review, and Result. The quiz section of the online test application accepts the questions in JSON format. 
+* The JSON file can be easily shared from the server in the pre-defined format. The application renders the test at the client-side.
+* The Review and Results section shows the feedback about the correct or incorrect answers and shows final results.
+
+2.Technologies used:
+* HTML and CSS
+* JavaScript
+* JSON
+
+3.Steps:
+* Its a Astronomy & Space Quiz and user can start with the quiz by pressing on start button on index.html.
+* It contains set of questions which users can answer and has an easy difficulty questions related to Astronomy & Space.
+* For correct answer you will get green option & for an incorrect answer you will get red option.
+* When the user select an option for a question, they can get the response that it is a correct or an incorrect answer by displaying the option green or red respectively.
+* The set of questions are stored in questions.json file.
+* index.html locally or on a live server used for the Fetch API to work properly. We can install its extension on VS Code and open the files on Live Server from VS Code itself.
+* The Final score is shown at the end by fetching it from Local Storage via localStorage/Application.
+
+4.Note: 
+Without the use of server, the questions from the json file won't load. So, it is mandatory to use some sort of local hosting server and then open the files and not without server. In our case we are using Live Server extension from VS code. so, you should download it first in vs code extension.
+
+<kbd>(images/1.PNG)</kbd>
+
+<kbd>(images/2.PNG)</kbd>
+
+<kbd>(images/3.PNG)</kbd>
+
+<kbd>(images/4.PNG)</kbd>
+
+<kbd>(images/5.PNG)</kbd>
+
+<kbd>(images/6.PNG)</kbd>
+
+<kbd>(images/7.PNG)</kbd>
+
+<kbd>(images/8.PNG)</kbd>
+

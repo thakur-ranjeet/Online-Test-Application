@@ -1,0 +1,44 @@
+[
+  {
+    "question": "In which year did the space shuttle Columbia disaster take place?",
+    "choice1": "1967",
+    "choice2": "1983",
+    "choice3": "2003",
+    "choice4": "1986",
+    "answer": 3
+  },
+  {
+    "question": "With which US spacecraft did Neil Armstrong and Edwin Aldrin, Jr. land on the moon?",
+    "choice1": "Apollo 11",
+    "choice2": "Apollo 7",
+    "choice3": "Apollo 13",
+    "choice4": "Apollo 17",
+    "answer": 1
+  },
+  {
+    "question": "When did the International Astronomical Union adopt the dwarf planet category?",
+    "choice1": "2000",
+    "choice2": "1998",
+    "choice3": "2009",
+    "choice4": "2006",
+    "answer": 4
+  },
+  {
+    "question": "When was Pluto removed from the list of planets?",
+    "choice1": "2006",
+    "choice2": "2000",
+    "choice3": "2005",
+    "choice4": "2001",
+    "answer": 1
+  },
+  
+  {
+    "question": "When did the Space Age begin?",
+    "choice1": "1955",
+    "choice2": "1959",
+    "choice3": "1988",
+    "choice4": "1957",
+    "answer": 4
+  }
+  
+]
